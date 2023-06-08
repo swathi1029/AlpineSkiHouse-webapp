@@ -1,0 +1,9 @@
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.exe
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.dll
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.deps.json
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.runtimeconfig.json
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\AlpineSkiHouse.pdb
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\swathi\AlpineSkiHouse\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
